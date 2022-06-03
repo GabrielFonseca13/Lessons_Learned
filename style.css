@@ -4,7 +4,9 @@ body{
 #cabecalho{
     position: fixed;
     top: 0;
+    text-align: center;
 }
 #minha_foto{
-    width: 300px;
+    width: 400px;
+    margin-top: 150px;
 }
