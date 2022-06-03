@@ -1,5 +1,6 @@
 body{
     background-color: rgb(253, 251, 251);
+    font-family: fantasy;
 }
 #cabecalho{
     position: fixed;
@@ -8,5 +9,15 @@ body{
 }
 #minha_foto{
     width: 400px;
-    margin-top: 150px;
+    margin-top:250px;
+    border: 6px solid green;
+    padding: 20px;
+    background-color: black ;
+}
+#titulo{
+    font-size: 40px;
+    color: green;
+}
+p{
+    line-height: 35px;
 }
