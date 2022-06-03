@@ -1,29 +1,29 @@
-body{
+body {
     background-color: rgb(253, 251, 251);
     font-family: fantasy;
 }
-#cabecalho{
+#cabecalho {
     position: fixed;
     top: 0;
     text-align: center;
 }
-#minha_foto{
+#minha_foto {
     width: 400px;
     margin-top:250px;
     border: 6px solid green;
     padding: 20px;
     background-color: black ;
 }
-#titulo{
+#titulo {
     font-size: 40px;
     color: green;
 }
-p{
+p {
     line-height: 35px;
 }
-#licoes_aprendidas{
+#licoes_aprendidas {
     display: inline-block;
 }
-#licoes_a_aprender{
+#licoes_a_aprender {
     display: inline-block;
 }
