@@ -21,3 +21,9 @@ body{
 p{
     line-height: 35px;
 }
+#licoes_aprendidas{
+    display: inline-block;
+}
+#licoes_a_aprender{
+    display: inline-block;
+}
