@@ -1,29 +1,29 @@
 body {
-    background-color: rgb(253, 251, 251);
-    font-family: fantasy;
+  background-color: rgb(253, 251, 251);
+  font-family: fantasy;
 }
 #cabecalho {
-    position: fixed;
-    top: 0;
-    text-align: center;
+  position: fixed;
+  top: 0;
+  text-align: center;
 }
 #minha_foto {
-    width: 400px;
-    margin-top:250px;
-    border: 6px solid green;
-    padding: 20px;
-    background-color: black ;
+  width: 400px;
+  margin-top: 250px;
+  border: 6px solid green;
+  padding: 20px;
+  background-color: black;
 }
 #titulo {
-    font-size: 40px;
-    color: green;
+  font-size: 40px;
+  color: green;
 }
 p {
-    line-height: 35px;
+  line-height: 35px;
 }
-#licoes_aprendidas {
-    display: inline-block;
+.lado-esquerdo {
+  display: inline-block;
 }
-#licoes_a_aprender {
-    display: inline-block;
+.lado-direito {
+  display: inline-block;
 }
